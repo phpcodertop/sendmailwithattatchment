@@ -1,0 +1,64 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.error{
+	color: #ff0000;	
+}
+
+.header{
+	padding: 20px;
+	text-align: center;
+	display: block;
+    text-decoration: none;
+    font: 20px Tahoma, Helvetica, Arial, Sans-Serif;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #cccccc;
+    text-shadow: 1px 1px 1px #8c8c8c;
+}
+.formadd{
+	padding: 20px;
+	font-weight: bold;
+	font-size: 23px;
+	color: #555;
+}
+.btn{
+	margin-left: 300px;
+	margin-top: 20px;
+	padding: 20x;
+	color: #fff;
+	background-color: #007fff;
+	height: 40px;
+}
+input{
+	padding: 10px;
+
+}
+
+.add{
+	font-weight: bold;
+	padding: 5px;
+	margin: 10px;
+}
+.delall{
+	font-weight: bold;
+	padding: 5px;
+	margin: 10px;
+}
+.tbl{
+	width: 80%;
+	margin:  0 auto;
+	border: 5px solid #ccc;
+	text-align: center;
+	padding: 10px;
+}
+
+.tbl td{
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
+
+}
+.tbl tr{padding: 20px;}
+.tbl tr:hover {background-color: #f5f5f5; }
